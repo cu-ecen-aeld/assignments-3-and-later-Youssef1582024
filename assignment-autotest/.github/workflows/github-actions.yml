@@ -1,0 +1,12 @@
+name: assignment-autotest-test
+on: [push]
+jobs:
+    test:
+        container: cuaesd/aesd-autotest:unit-test
+        runs-on: ubuntu-latest
+        steps:
+          - uses: actions/checkout@v2
+          - name: Checkout submodules
+            run : git submodule update --init --recursive
+          - name: Run unit test
+            run: ./full-test.sh

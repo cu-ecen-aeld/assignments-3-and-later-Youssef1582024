@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest",
+  "command": "/usr/bin/gcc  -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/. -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/..   -Wall -Werror -g   -o CMakeFiles/assignment-autotest.dir/test/assignment1/Test_hello.c.o   -c /home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c",
+  "file": "/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c"
+},
+{
+  "directory": "/home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest",
+  "command": "/usr/bin/gcc  -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/. -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/..   -Wall -Werror -g   -o CMakeFiles/assignment-autotest.dir/test/assignment1/Test_assignment_validate.c.o   -c /home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_assignment_validate.c",
+  "file": "/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_assignment_validate.c"
+},
+{
+  "directory": "/home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest",
+  "command": "/usr/bin/gcc  -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/. -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/..   -Wall -Werror -g   -o CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username.c.o   -c /home/youssef/Documents/assignment-1-Youssef1582024/student-test/assignment1/Test_validate_username.c",
+  "file": "/home/youssef/Documents/assignment-1-Youssef1582024/student-test/assignment1/Test_validate_username.c"
+},
+{
+  "directory": "/home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest",
+  "command": "/usr/bin/gcc  -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/. -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/..   -Wall -Werror -g   -o CMakeFiles/assignment-autotest.dir/test/assignment1/Test_hello_Runner.c.o   -c /home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello_Runner.c",
+  "file": "/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello_Runner.c"
+},
+{
+  "directory": "/home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest",
+  "command": "/usr/bin/gcc  -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/. -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/..   -Wall -Werror -g   -o CMakeFiles/assignment-autotest.dir/test/assignment1/Test_assignment_validate_Runner.c.o   -c /home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_assignment_validate_Runner.c",
+  "file": "/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_assignment_validate_Runner.c"
+},
+{
+  "directory": "/home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest",
+  "command": "/usr/bin/gcc  -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/. -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/..   -Wall -Werror -g   -o CMakeFiles/assignment-autotest.dir/__/student-test/assignment1/Test_validate_username_Runner.c.o   -c /home/youssef/Documents/assignment-1-Youssef1582024/student-test/assignment1/Test_validate_username_Runner.c",
+  "file": "/home/youssef/Documents/assignment-1-Youssef1582024/student-test/assignment1/Test_validate_username_Runner.c"
+},
+{
+  "directory": "/home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest",
+  "command": "/usr/bin/gcc  -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/. -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/..   -Wall -Werror -g   -o CMakeFiles/assignment-autotest.dir/__/examples/autotest-validate/autotest-validate.c.o   -c /home/youssef/Documents/assignment-1-Youssef1582024/examples/autotest-validate/autotest-validate.c",
+  "file": "/home/youssef/Documents/assignment-1-Youssef1582024/examples/autotest-validate/autotest-validate.c"
+},
+{
+  "directory": "/home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest",
+  "command": "/usr/bin/gcc  -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/. -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/..   -Wall -Werror -g   -o CMakeFiles/assignment-autotest.dir/test/unity_runner.c.o   -c /home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/unity_runner.c",
+  "file": "/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/unity_runner.c"
+},
+{
+  "directory": "/home/youssef/Documents/assignment-1-Youssef1582024/build/assignment-autotest/Unity/src",
+  "command": "/usr/bin/gcc  -I/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src  -g   -o CMakeFiles/unity.dir/unity.c.o   -c /home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src/unity.c",
+  "file": "/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src/unity.c"
+}
+]

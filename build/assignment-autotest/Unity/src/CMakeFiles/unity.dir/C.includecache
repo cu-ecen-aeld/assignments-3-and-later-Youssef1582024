@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src/unity.c
+unity.h
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src/unity.h
+stddef.h
+-
+avr/pgmspace.h
+-
+
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src/unity.h
+unity_internals.h
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src/unity_internals.h
+
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src/unity_internals.h
+unity_config.h
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/Unity/src/unity_config.h
+setjmp.h
+-
+math.h
+-
+stddef.h
+-
+stdarg.h
+-
+stdint.h
+-
+limits.h
+-
+stdio.h
+-
+stdio.h
+-
+time.h
+-
+time.h
+-
+
