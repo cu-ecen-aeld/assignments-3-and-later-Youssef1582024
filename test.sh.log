@@ -663,3 +663,60 @@ File created successfully at /tmp/aeld-data/a4dGsi4VzcoKkHx2PuwXV1puRVeBXTz8/You
 The number of files are 10 and the number of matching lines are 10
 success
 Test of assignment assignment1 complete with success
+Running test with user youssef
+./unit-test.sh: line 9: cmake: command not found
+./unit-test.sh: line 10: make: command not found
+./unit-test.sh: line 11: make: command not found
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:6:test_hello:INFO: Hello!  Your unity setup is working!
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:4:test_hello:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_assignment_validate.c:9:test_assignment_validate:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Read Youssef1582024 from conf/username.txt
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/../student-test/assignment1/Test_validate_username.c:9:test_validate_my_username:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Executing assignment test script
+~/Desktop/assignment-3-part-2-Youssef1582024/assignment-autotest/test/assignment3 ~/Desktop/assignment-3-part-2-Youssef1582024
+starting test with SKIP_BUILD  and DO_VALIDATE 
+~/Desktop/assignment-3-part-2-Youssef1582024/finder-app ~/Desktop/assignment-3-part-2-Youssef1582024/assignment-autotest/test/assignment3 ~/Desktop/assignment-3-part-2-Youssef1582024
+Using passed directory /tmp/aesd-autograder for output
+CLONING GIT LINUX STABLE VERSION v5.15.163 IN /tmp/aesd-autograder
+Cloning into 'linux-stable'...
+Running test with user youssef
+./unit-test.sh: line 9: cmake: command not found
+./unit-test.sh: line 10: make: command not found
+./unit-test.sh: line 11: make: command not found
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:6:test_hello:INFO: Hello!  Your unity setup is working!
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_hello.c:4:test_hello:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/test/assignment1/Test_assignment_validate.c:9:test_assignment_validate:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Read Youssef1582024 from conf/username.txt
+/home/youssef/Documents/assignment-1-Youssef1582024/assignment-autotest/../student-test/assignment1/Test_validate_username.c:9:test_validate_my_username:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
+Executing assignment test script
+~/Desktop/assignment-3-part-2-Youssef1582024/assignment-autotest/test/assignment3 ~/Desktop/assignment-3-part-2-Youssef1582024
+starting test with SKIP_BUILD  and DO_VALIDATE 
+~/Desktop/assignment-3-part-2-Youssef1582024/finder-app ~/Desktop/assignment-3-part-2-Youssef1582024/assignment-autotest/test/assignment3 ~/Desktop/assignment-3-part-2-Youssef1582024
+Using passed directory /tmp/aesd-autograder for output
+Creating output directory /tmp/aesd-autograder
+CLONING GIT LINUX STABLE VERSION v5.15.163 IN /tmp/aesd-autograder
+Cloning into 'linux-stable'...
